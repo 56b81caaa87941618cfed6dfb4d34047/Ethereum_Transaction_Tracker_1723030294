@@ -54,5 +54,11 @@
         "content": "add a navbar with navlinks home, about and contact",
         "timestamp": "07082024113654",
         "message_id": "guest07082024113654"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the navbar to be fixed at the top of the page or should it disappear as the user scrolls down?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappear on scroll\"}, {\"question 2\": \"For the navbar's design, do you prefer a classic look with text links, or a more modern approach with icons next to the text?\", \"option1\": \"Classic text links\", \"option2\": \"Modern with icons and text\"}], \"input_token_count\": 265, \"output_token_count\": 111, \"time_taken\": \"0:00:07.291566\"}",
+        "timestamp": "07082024113703",
+        "message_id": "guest07082024113654"
     }
 ]
