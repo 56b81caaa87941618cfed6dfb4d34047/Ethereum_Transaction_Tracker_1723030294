@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a real-time transaction notification feature\", \"checked\": true}, {\"feature\": \"Incorporate a filter option to sort transactions by value, date, or gas fee\", \"checked\": false}, {\"feature\": \"Implement an interactive map to visualize global transactions\", \"checked\": false}, {\"feature\": \"Include a transaction history feature for users to track their searched transactions\", \"checked\": true}, {\"feature\": \"Enable a sharing option for transactions via social media or link\", \"checked\": false}, {\"feature\": \"Create a 'Save for Later' feature to bookmark interesting transactions\", \"checked\": true}], \"input_token_count\": 214, \"output_token_count\": 128, \"time_taken\": \"0:00:06.290058\"}",
+        "message_id": "guest07082024113418",
+        "timestamp": "07082024113425",
+        "component_file_name": "simple_footer_component_1723030297",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'm adding a button that says Submit.",
         "message_id": "guest07082024113418",
