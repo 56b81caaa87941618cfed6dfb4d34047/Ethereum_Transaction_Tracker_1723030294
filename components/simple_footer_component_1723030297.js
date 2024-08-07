@@ -16,7 +16,15 @@ Vue.component("simple_footer_component_1723030297", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         © 2023 EthScan. Stay updated on the latest Ethereum transactions. Powered by blockchain technology.
+                        © 2023 EthScan. Stay updated on the latest Ethereum transactions. Powered by blockchain technology.
                     </div>
+                </div>
+                <div class="flex justify-center mt-4">
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                        Submit
+                    </button>
+                </div>
+
                 </div>
             </div>
         </footer> 
