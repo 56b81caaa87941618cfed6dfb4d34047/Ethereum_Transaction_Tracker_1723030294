@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button that says Submit",
+        "message_id": "guest07082024113418",
+        "timestamp": "07082024113418",
+        "component_file_name": "simple_footer_component_1723030297",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically would you like this 'Hello World' button to be positioned within the app?\", \"option1\": \"On the main screen towards the bottom\", \"option2\": \"In the app's menu or settings section\"}, {\"question 2\": \"What function should the 'Hello World' button perform when clicked?\", \"option1\": \"Display a pop-up message saying 'Hello World'\", \"option2\": \"Navigate to a specific page within the app that explains the project\"}], \"input_token_count\": 261, \"output_token_count\": 111, \"time_taken\": \"0:00:04.550978\"}",
         "message_id": "guest07082024113338",
