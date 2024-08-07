@@ -48,5 +48,11 @@
         "content": "Alright, I'll add a button that says \"hey there\".",
         "timestamp": "07082024113623",
         "message_id": "guest07082024113622"
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with navlinks home, about and contact",
+        "timestamp": "07082024113654",
+        "message_id": "guest07082024113654"
     }
 ]
